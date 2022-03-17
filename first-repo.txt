@@ -1,3 +1,4 @@
 Audima Oktasena Test
 1. Membuat account github
 2. Melakukan pembuatan project pada GitHub
+3. Melakukan pengeditan pada project pertama di GitHub
